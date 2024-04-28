@@ -4,8 +4,14 @@ Dashboard with Grid:
 
 > # TO DO _HTML_:
     + Side bar
-    - header top
-    - header bottom
-    - Projects
-    - announcements
-    - trending
+        - Need to add icons to the left of each sidebar
+    + Header top
+        - Add logos
+    + Header bottom
+        - Add logos
+    + Projects
+        - Need to add incons
+        - Maybe change project titles from p to h
+    + Announcements
+    + Trending
+        - Figure out how to add logos
