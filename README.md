@@ -20,6 +20,6 @@ Dashboard with Grid:
     + Trending
         - Figure out how to add logos
 - Step 3:
-    -Apply grid properties
-    +Apply background
+    - Apply grid properties
+    + Apply background
 
