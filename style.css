@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.container div{
+    padding: 15px;
+    font-size: 32px;
+    font-family: Helvetica;
+}
+
+.header {
+    background-color: #ffffff;
+    display: grid;
+    grid-template-columns: 1 / 3;
+}
+
+.header-bottom {
+    
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+}
+
+.header-bottom .options ul,
+.options li{
+    list-style-type: None;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.side-bar{
+    background-color: #1992d4;
+    color: white;
+    display: grid;
+    grid-row: 1 / 3;
+}
+.side-bar .logo{
+    font-size: 48px;
+}
+
+.side-bar p{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 36;
+}
+.side-bar ul,
+.side-bar li {
+  list-style-type: none;
+}
+
+.projects,
+.anouncements,
+.trending {
+    background-color: #e1e7ed;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+    text-align: left;
+}
+
+.activity{
+    display: grid;
+    grid-column: 2/3;
+    grid-template-columns:2fr 1fr;
+    grid-template-rows: 1fr; 
+}
+
+.project{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-column: auto;
+    grid-row: 1/3;
+    gap: 15px;
+}
+
+.project .card {
+    background-color: #FFFFFF;
+    color: black;
+    text-align: center;
+    height: 200px;
+    text-align: center;
+}
+.project .card .title{
+    font-weight: bold;
+    text-align: center;
+}
+
+.anouncements {
+    display: grid;
+    grid-row: 1/2;
+}
+.trending {
+    display: grid;
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+/* GRID CSS */
+/* .container{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+} */
