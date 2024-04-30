@@ -4,8 +4,8 @@ Dashboard with Grid:
 
 ># TO DO _HTML_:
 - Step 1:
-    + Set up Git repo
-    + Lay down basic html and css
+    + ~~Set up Git repo~~
+    + ~~Lay down basic html and css~~
 - Step 2:
     + Side bar
         - Need to add icons to the left of each sidebar
@@ -16,10 +16,14 @@ Dashboard with Grid:
     + Projects
         - Need to add incons
         - Maybe change project titles from p to h
-    + Announcements
+    + ~~Announcements~~
     + Trending
         - Figure out how to add logos
 - Step 3:
-    - Apply grid properties
-    + Apply background
-
+    - ~~Apply grid properties~~
+    + ~~Apply background~~
+- Step 4:
+    + Gather assest
+        - Get a working color palette
+        - Download the icons
+        - Choose fonts
