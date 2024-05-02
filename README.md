@@ -23,6 +23,5 @@ Dashboard with Grid:
         - ~~Get a working color palette~~
         - ~~Download the icons~~
 - Fix:
-    - Project, Annoucement, and Trending need titles
+    - ~~Project, Annoucement, and Trending need titles~~
     - Align header a little better
-    - Customize pfps
