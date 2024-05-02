@@ -10,15 +10,19 @@ Dashboard with Grid:
     + ~~Side bar~~
     + ~~Header top~~
     + ~~Header bottom~~
-    + ~~Projects~~
+    + Projects
+        - ~~Add icons~~
     + ~~Announcements~~
-    + ~~Trending~~
-    + Add logos/icons
+    + Trending
+        - ~~Add icons~~
 - Step 3:
     - ~~Apply grid properties~~
     + ~~Apply background~~
 - Step 4:
     + Gather assest
-        - Get a working color palette
+        - ~~Get a working color palette~~
         - ~~Download the icons~~
-        - Choose fonts
+- Fix:
+    - Project, Annoucement, and Trending need titles
+    - Align header a little better
+    - Customize pfps
